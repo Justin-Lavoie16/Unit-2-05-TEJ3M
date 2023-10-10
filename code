@@ -1,3 +1,9 @@
+/*
+ * created by: Justin Lavoie
+ * Creaton on: Oct 2023
+ * This program controls a servo motor
+ */
+
 #include <Servo.h>
 
 Servo servoNumber1;
